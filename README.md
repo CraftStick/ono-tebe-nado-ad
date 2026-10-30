@@ -1,8 +1,15 @@
-# Оно тебе надо
+# Ono Tebe Nado
 
-Проект аукциона вещей, в которые никто не верил.
+[English](README.md) · [Русский](README.ru.md)
 
-## Ссылка на репозиторий
+A static landing page for “Оно тебе надо” — an auction of things nobody believed in.
 
-https://github.com/CraftStick/ono-tebe-nado-ad
+## Getting Started
 
+Open `index.html` in a browser.
+
+## Project Structure
+
+- `index.html` — page markup
+- `styles/` — styles
+- `fonts/`, `images/` — assets
